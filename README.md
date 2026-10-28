@@ -2,11 +2,12 @@
 
 Sujith Sakthivel
 
-AI / Machine Learning · Full-Stack Development · Intelligent Systems
+AI / Machine Learning  ·  Full-Stack Development  ·  Intelligent Systems
 
-Building practical software at the intersection of machine learning, data, and modern web technologies.
+Building useful software through thoughtful engineering, machine learning, and clean design.
 
-Explore my work  ·  GitHub profile
+
+
 
 
 
@@ -14,41 +15,33 @@ Explore my work  ·  GitHub profile
 
 About
 
-I'm a developer interested in designing intelligent, useful applications—from machine-learning pipelines to full-stack platforms and developer tools. My projects explore computer vision, natural-language interfaces, explainable systems, and data-focused software engineering.
+I'm a developer focused on AI/ML systems, full-stack applications, and data-centric tools. I enjoy taking ideas from early prototypes to practical software, with an emphasis on understandable architecture and useful interfaces.
 
 
 
 
 
-Focus: AI/ML, full-stack applications, APIs, and data systems
+Building: Intelligent applications, APIs, and developer tools
 
 
 
-Approach: Clear architecture, thoughtful interfaces, and practical problem-solving
+Interested in: Computer vision, natural-language interfaces, and explainable systems
 
 
 
-Currently exploring: Intelligent systems and applied machine learning
-
-
-
-Selected work
+Approach: Solve real problems with clear, maintainable engineering
 
 
 
 
 
-
-
-Project
-
-
-
-What it does
+Selected Projects
 
 
 
-Stack
+
+
+
 
 
 
@@ -56,87 +49,81 @@ Stack
 
 Brain Tumor MRI Detection
 
+An MRI analysis and clinical decision-support prototype exploring deep learning and explainable AI.
 
-
-MRI analysis and clinical decision-support prototype with explainable AI features.
-
-
-
-Python, PyTorch, FastAPI, React, TypeScript
-
-
+PyTorch FastAPI React TypeScript
 
 
 
 NL to DB Query
 
+A natural-language interface for SQL and MongoDB featuring role-based access controls and audit logging.
 
-
-Natural-language interface for SQL and MongoDB, with multi-tenant access controls and audit logging.
-
-
-
-React, TypeScript, Flask, MySQL, MongoDB
-
-
+React Flask MySQL MongoDB
 
 
 
 Ghost Data Audit Agent
 
+A local-first Python tool for reconstructing deletion state from evidence and explaining audit findings.
 
-
-Local-first, evidence-based auditing of data-deletion state with a deterministic engine.
-
-
-
-Python, FastAPI, Streamlit, Docker
-
-
+Python FastAPI Streamlit Docker
 
 
 
 Skill Gap Analyzer
 
+A project exploring skill-gap analysis.
+
+Explore repository
 
 
-A skill-gap analysis project.
 
 
 
-See repository
 
-These are portfolio projects; read each repository's documentation for its scope, limitations, and setup instructions.
 
-Technologies
+Technical Toolkit
 
 Languages
-Python · TypeScript · JavaScript · SQL
-
-Frontend
-React · Tailwind CSS
-
-Backend & data
-FastAPI · Flask · MySQL · MongoDB
-
-AI & machine learning
-PyTorch · Computer Vision · LLM Integrations
-
-Tools
-Git · Docker
-
-GitHub activity
 
 
 
 
 
 
-
-Connect
-
-Explore my repositories, or follow my work here on GitHub.
+Frontend & Backend
 
 
 
-Always learning. Always building.
+
+
+
+AI, Data & Tools
+
+
+
+
+
+
+
+
+
+
+
+GitHub Activity
+
+
+
+
+
+
+
+
+
+
+
+Explore the work. Read the code. See how it's built.
+
+Repositories · Profile
+
